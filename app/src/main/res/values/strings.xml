@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Prueba4</string>
+    <string name="category" translatable="false">movies</string>
+</resources>
